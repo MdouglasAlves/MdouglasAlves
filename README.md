@@ -13,7 +13,7 @@ Me chamo Douglas, tenho 23 anos e sou de São Paulo/SP. Atualmente estou cursand
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"/>
   </a>
-  <a href="mailto:md.douglasalves@gmail.com" 
+  <a href="md.douglasalves@gmail.com" 
      target="_blank" 
      rel="noopener noreferrer" 
      title="Enviar email para Douglas">
@@ -95,19 +95,8 @@ Me chamo Douglas, tenho 23 anos e sou de São Paulo/SP. Atualmente estou cursand
 
 ### 📊 Estatísticas
 
-<p>
+  <a href= "https://github.com/MdouglasAlves">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MdouglasAlves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdouglasAlves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+    src="(https://github-readme-stats.vercel.app/api?username=MdouglasAlves&show_icons=true&count_private=true&title_color=0891b2&text_color=1c1917&hide_border=true&show_icons-true"
+    alt="MdouglasAlves's GitHub stats"/>
+  </a>
