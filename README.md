@@ -13,14 +13,12 @@ Me chamo Douglas, tenho 23 anos e sou de São Paulo/SP. Atualmente estou cursand
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"/>
   </a>
-  <a href="md.douglasalves@gmail.com" 
-     target="_blank" 
-     rel="noopener noreferrer" 
-     title="Enviar email para Douglas">
-    <img 
-      src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"/>
-  </a>
+  <a href="mailto:md.douglasalves@gmail.com" title="Enviar email para Douglas">
+  <img 
+    src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"/>
+</a>
+ 
 </div>
 
 <div align="center">
