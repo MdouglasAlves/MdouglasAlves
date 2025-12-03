@@ -2,7 +2,7 @@
 
 ---
 
-Me chamo Douglas, tenho 23 anos e sou de São Paulo/SP. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIP.
+Eu me chamo Douglas, tenho 23 anos e sou de São Paulo/SP. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIP.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/douglas-alves-27b633354/" 
